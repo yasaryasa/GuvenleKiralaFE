@@ -328,7 +328,7 @@ img{
 	max-width:100%;	
 }
 
-.preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(--/images/icons/preloader.svg);}
+.preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(../images/icons/preloader.svg);}
 
 /*** 
 
@@ -1399,7 +1399,7 @@ img{
 	top:0px;
 	width:45px;
 	height:45px;
-	background:url(img/icon-cross.png) center center no-repeat;
+	background:url(../images/icons/icon-cross.png) center center no-repeat;
 	background-color:rgba(17,17,17,0.50) !important;	
 }
 
@@ -1605,7 +1605,7 @@ img{
 	width:864px;
 	height:864px;
 	display:block;
-	background:url(img/round-bg.png)  center center no-repeat;	
+	background:url(../images/background/round-bg.png)  center center no-repeat;	
 }
 
 .main-banner .content-column{
@@ -1815,7 +1815,7 @@ img{
 	top:-140px;
 	width:100%;
 	height:227px;
-	background:url(img/4.png) no-repeat;
+	background:url(../images/background/4.png) no-repeat;
 }*/
 
 .services-block{
@@ -1863,19 +1863,19 @@ img{
 	line-height:100px;
 	text-align:center;
 	display:inline-block;
-	background:url(img/icon-1.png) no-repeat;
+	background:url(../images/icons/icon-1.png) no-repeat;
 }
 
 .services-block:nth-child(2) .inner-box .icon-box{
-	background:url(img/icon-2.png) no-repeat;
+	background:url(../images/icons/icon-2.png) no-repeat;
 }
 
 .services-block:nth-child(3) .inner-box .icon-box{
-	background:url(img/icon-3.png) no-repeat;
+	background:url(../images/icons/icon-3.png) no-repeat;
 }
 
 .services-block:nth-child(4) .inner-box .icon-box{
-	background:url(img/icon-4.png) no-repeat;
+	background:url(../images/icons/icon-4.png) no-repeat;
 }
 
 .services-block .inner-box .icon-box .icon{
@@ -2049,7 +2049,7 @@ img{
 	height:652px;
 	z-index:-1;
 	display:inline-block;
-	background:url(img/pattern-1.png) no-repeat;
+	background:url(../images/resource/pattern-1.png) no-repeat;
 }
 
 .app-section .content-column{
@@ -2103,7 +2103,7 @@ img{
     top: -230px;
     width: 100%;
     height: 230px;
-    background: url(img/2.png) repeat-x;
+    background: url(../images/background/2.png) repeat-x;
 }
 
 .services-section-two.style-two:after{
@@ -2113,7 +2113,7 @@ img{
     bottom: -181px;
     width: 100%;
     height: 181px;
-    background: url(img/3.png) repeat-x;
+    background: url(../images/background/3.png) repeat-x;
 }
 
 .services-block-two{
@@ -2729,7 +2729,7 @@ img{
 .testimonial-section-two .image-column .inner-column{
 	position:relative;
 	min-height:340px;
-	background:url(img/map.png) center center no-repeat;
+	background:url(../images/background/map.png) center center no-repeat;
 }
 
 /* Circle One */
@@ -3828,7 +3828,7 @@ img{
 	top:-230px;
 	width:100%;
 	height:230px;
-	background:url(img/2.png) repeat-x;
+	background:url(../images/background/2.png) repeat-x;
 }
 
 .counter-section{
@@ -3958,7 +3958,7 @@ img{
     top: 62%;
     width: 31px;
     height: 29px;
-	background:url(img/icon-5.png) no-repeat;
+	background:url(../images/icons/icon-5.png) no-repeat;
 }
 
 .app-section-two .image-column .inner-column .icon-two{
@@ -3967,7 +3967,7 @@ img{
     top: -10%;
     width: 17px;
     height: 16px;
-	background:url(img/icon-6.png) no-repeat;
+	background:url(../images/icons/icon-6.png) no-repeat;
 }
 
 .app-section-two .image-column .inner-column .icon-three{
@@ -3976,7 +3976,7 @@ img{
     top: -20%;
     width: 31px;
     height: 29px;
-	background:url(img/icon-7.png) no-repeat;
+	background:url(../images/icons/icon-7.png) no-repeat;
 }
 
 .app-section-two .image-column .inner-column .icon-four{
@@ -3985,7 +3985,7 @@ img{
     bottom: 15%;
     width: 31px;
     height: 29px;
-	background:url(img/icon-8.png) no-repeat;
+	background:url(../images/icons/icon-8.png) no-repeat;
 }
 
 .app-section-two .image-column .inner-column .icon-five{
@@ -3994,7 +3994,7 @@ img{
     bottom: 36%;
     width: 16px;
     height: 15px;
-	background:url(img/icon-9.png) no-repeat;
+	background:url(../images/icons/icon-9.png) no-repeat;
 }
 
 .app-section-two .image-column .inner-column .lock-icon{
@@ -4178,7 +4178,7 @@ img{
 	width:100%;
 	height:369px;
 	display:block;
-	background:url(img/pattern-1.png) no-repeat;
+	background:url(../images/background/pattern-1.png) no-repeat;
 	background-position:right top;
 }
 
@@ -4473,7 +4473,7 @@ img{
     bottom: -60px;
     width: 100%;
     height: 227px;
-    background: url(img/4.png) left bottom repeat-x;
+    background: url(../images/background/4.png) left bottom repeat-x;
 }
 
 .banner-section-three.style-two:before{
@@ -4547,7 +4547,7 @@ img{
 	top:250px;
 	width:100%;
 	height:499px;
-	background:url(img/5.png) repeat-x;
+	background:url(../images/background/5.png) repeat-x;
 }
 
 .screenshots-section .carousel-container{
@@ -4561,7 +4561,7 @@ img{
 	height:578px;
 	margin:0 auto;
 	padding:70px 20px;
-	background:url(img/iphone-mockup.png) center top no-repeat;
+	background:url(../images/resource/iphone-mockup.png) center top no-repeat;
 }
 
 .screenshots-section .carousel-outer .owl-carousel{
@@ -4583,7 +4583,7 @@ img{
 	top:0px;
 	width:20px;
 	height:630px;
-	background:url(img/iphone-mockup.png) left top no-repeat;
+	background:url(../images/resource/iphone-mockup.png) left top no-repeat;
 	z-index:20;	
 }
 
@@ -4594,7 +4594,7 @@ img{
 	top:0px;
 	width:21px;
 	height:630px;
-	background:url(img/iphone-mockup.png) right top no-repeat;
+	background:url(../images/resource/iphone-mockup.png) right top no-repeat;
 	z-index:20;	
 }
 
@@ -5937,7 +5937,7 @@ img{
 	bottom:-2px;
 	top:0px;
 	z-index:1;
-	background:url(img/map-pattern.png) no-repeat;
+	background:url(../images/background/map-pattern.png) no-repeat;
 	background-size:cover;
 	background-position:right top;
 }
